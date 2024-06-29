@@ -22,7 +22,7 @@ Exploring and .....
 <ul>
   <li>Pandas</li>
   <li>Numpy</li>
-  <li><b>scikit_learn</li>
+  <li>scikit_learn</li>
   <li>Seaborn</li>
   <li>Matplotlib</li>
 </ul>
